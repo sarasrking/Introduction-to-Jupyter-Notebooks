@@ -4,9 +4,9 @@ Teaching: 15
 Exercises: 1
 Question:
 - What are notebooks?
-objectives:
+Objectives:
 - Understand what notebooks are
-keypoints:
+Keypoints:
 - Notebooks are useful!
 ---
 
