@@ -1,14 +1,13 @@
 ---
-title: "Introduction to Library Carpentry"
-teaching: 15
-exercises: 0
-questions:
-- What do librarians gain from code?
+Title: "Introduction to Jupyter Notebooks?"
+Teaching: 15
+Exercises: 1
+Question:
+- What are notebooks?
 objectives:
-- Explain why software skills are valuable to librarians
-- Know where to go for help during Library Carpentry
+- Understand what notebooks are
 keypoints:
-- Don't be scared to ask for help
+- Notebooks are useful!
 ---
 
 ## Overview
