@@ -22,7 +22,7 @@ Notebooks are documents that contain both code and rich text elements, such as l
 
 ## Jupyter Notebooks
 
-Jupyter is named after three computer programming languages - _Ju_lia, _Pyt_hon and _R_. It is a free, open-source, interactive web tool  which researchers use so they combine software code, computational output, explanatory text and multimedia resources in a single document. 
+Jupyter is named after three computer programming languages - **Ju**lia, **Pyt**hon and **R**. It is a free, open-source, interactive web tool  which researchers use so they combine software code, computational output, explanatory text and multimedia resources in a single document. 
 
 Jupyter has exploded in popularity over the past couple of years and now supports more languages and is being used by more and more people from different disciplines.
 
