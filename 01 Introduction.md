@@ -1,6 +1,6 @@
 ---
 Title: "Introduction to Jupyter Notebooks"
-Teaching: 30
+Teaching: 15
 Exercises: 1
 Question:
 - What are notebooks?
