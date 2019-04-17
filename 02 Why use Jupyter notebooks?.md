@@ -14,6 +14,14 @@ Keypoints:
 
 ## Why use Jupyter Notebooks?
 
+Even if you think you don't use computational methods, if you use programs like Excel or 
+- Learn how to code and experiment with data processing
+- Interactive, provides immediate feedback, work in code blocks (not whole scripts)    
+- Learn from others’ efforts and understand their data and research processes    
+- Explore and extract data from large datasets without having to download them
+- Test out calculations and visualisations that highlight important data points
+
+
 ### What are Jupyter Notebooks used for?
 
 Notebooks are being used in an ever-increasing number of domains, by a large range of researchers. Currently the main fields using Jupyter Notebooks are the following: 
@@ -26,6 +34,10 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 - Signal Processing
 - Engineering Education
 
-### Activite
+### Activity
 
-More humanities researchers are adopting Jupyter Notebooks as part of their research practice. Take a look at the following and discuss how Jupyter Notebooks might be useful in different fields.
+More humanities researchers are adopting Jupyter Notebooks as part of their research practice. Take a look at the following and discuss how Jupyter Notebooks might be useful in different fields:
+
+- [Programming Historian](https://programminghistorian.org/)
+- [Wragge](https://github.com/wragge)
+- [Digital Humanities Laboratory](https://github.com/dhlab-epfl?language=jupyter+notebook)
