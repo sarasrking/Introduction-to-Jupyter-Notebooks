@@ -25,3 +25,7 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 - Linguistics and Text Mining
 - Signal Processing
 - Engineering Education
+
+### Activite
+
+More humanities researchers are adopting Jupyter Notebooks as part of their research practice. Take a look at the following and discuss how Jupyter Notebooks might be useful in different fields.
