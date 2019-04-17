@@ -3,13 +3,13 @@ Title: "Introduction to Jupyter Notebooks"
 Teaching: 30
 Exercises: 1
 Question:
-- What are notebooks?
+What are notebooks?
 Objectives:
-- Understand what notebooks are
+Understand what notebooks are
 Activity:
-- Talk about terminology
+Talk about terminology
 Keypoints:
-- Notebooks are useful! Don't be put off by the techie talk :)
+Notebooks are useful! Don't be put off by the techie talk :)
 ---
 
 ## Overview
