@@ -15,7 +15,7 @@ Keypoints:
 
 Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
 
-1. Open up MyBinder: (https://mybinder.org/)
+1. Open up MyBinder: https://mybinder.org/
 2. Paste the link to this GitHub repository (https://github.com/ingridbmason/Intro-to-Jupyter/) and click on LAUNCH.
 3. Open workshop list of commands in separate window: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_Python.txt)
 4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select Python 3. 
@@ -33,18 +33,18 @@ Using the workshop list of commands - saved in the repository as **Worksheet_Pyt
   - In computer programming a 'string' is sequence of alphanumerical characters
   - Type **# this is a string** into the cell, making sure you select 'Markdown' from the dropdown menu above where it shows 'Code' as the default. Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
   
-  - ![markdown](https://user-images.githubusercontent.com/48195568/56338527-89484580-61e9-11e9-965c-3726d8fd7fbb.png)
+  ![markdown](https://user-images.githubusercontent.com/48195568/56338527-89484580-61e9-11e9-965c-3726d8fd7fbb.png)
 
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell. 
   - You have just created a heading in your notebook! Hooray!
  
-  - ![STRING](https://user-images.githubusercontent.com/48195568/56339085-dcbb9300-61eb-11e9-88c9-60034e797b68.JPG)
+  ![STRING](https://user-images.githubusercontent.com/48195568/56339085-dcbb9300-61eb-11e9-88c9-60034e797b68.JPG)
  
   - Now let's try italics. In a new cell type **_this is a string_**, and select 'Markdown' from the dropdown menu again.
   - Click on 'Run' or use the  shortcut **Shift+Enter** to execute the cell.
   - Voila! _Italics!_
    
-  - ![italics](https://user-images.githubusercontent.com/48195568/56340380-ea274c00-61f0-11e9-8580-f471417719d9.JPG)
+  ![italics](https://user-images.githubusercontent.com/48195568/56340380-ea274c00-61f0-11e9-8580-f471417719d9.JPG)
 
 
   
