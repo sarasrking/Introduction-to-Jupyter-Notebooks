@@ -15,9 +15,9 @@ Keypoints:
 
 Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
 
-1. Open up MyBinder: https://mybinder.org/
-2. Paste the link to this GitHub repository (https://github.com/ingridbmason/Intro-to-Jupyter/) and click on LAUNCH.
-3. Open workshop list of commands in separate window: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_Python.txt)
+1. Open MyBinder: https://mybinder.org/
+2. Paste the link to this GitHub repository https://github.com/ingridbmason/Intro-to-Jupyter/ and click on LAUNCH.
+3. Open workshop list of commands in separate window: https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_Python.txt
 4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select Python 3. 
 
 ![New](https://user-images.githubusercontent.com/48195568/56337762-02459e00-61e6-11e9-8293-c19ba8d30c4c.jpg)
@@ -45,8 +45,6 @@ Using the workshop list of commands - saved in the repository as **Worksheet_Pyt
   - Voila! _Italics!_
    
   ![italics](https://user-images.githubusercontent.com/48195568/56340380-ea274c00-61f0-11e9-8580-f471417719d9.JPG)
-
-
   
 ### Mini-activity
 
@@ -63,3 +61,4 @@ If you want to know more, take a look at these pages:
 -(https://guides.github.com/features/mastering-markdown/)
 -(https://www.firstpythonnotebook.org/markdown/)
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
