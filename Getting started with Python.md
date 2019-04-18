@@ -28,7 +28,7 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks usi
 
 Using the workshop list of commands - saved in the repository as **Worksheet_Python.txt** we can now start with some basic markdown. Remember that [markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
-- Let's work in markdown!
+- First let's splash around in markdown!
   - In computer programming a 'string' is sequence of alphanumerical characters
   - Type **# this is a string** into the cell, making sure you select 'Markdown' from the dropdown menu above where it shows 'Code' as the default. Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
   
