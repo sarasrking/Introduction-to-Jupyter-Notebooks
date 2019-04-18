@@ -1,11 +1,11 @@
 ---
 Title: "How do Jupyter Notebooks work?"
-Teaching: 15
+Teaching: 30
 Exercises: 1
 Question:
 - How do Jupyter Notebooks work?
 Objectives:
-- Understand how notebooks run
+- Understand how notebooks run and how they are different to the command line
 Activity:
  - Look at an example on GitHub
 Keypoints:
@@ -45,12 +45,11 @@ Let's break that down:
 
 ### How are they different to the command line?
 
-The command line does not include notes. In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.
-
+The [command line] (https://en.wikipedia.org/wiki/Command-line_interface) does not include notes. In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.
 
 ### What is the file type?
 
-Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension 
+Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension. 
 
 #### Short summary
 
@@ -61,6 +60,7 @@ Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an 
 
 ### Activity
 
-In small groups, take a look at an example of a Jupyter Notebook in GitHub. Start here: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
-See if you can identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
-Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
+- In small groups, take a look at an example of a Jupyter Notebook in GitHub. Start here: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
+- See if you can identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
+- Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
+- If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, do you think notebooks might be more helpful to you?
