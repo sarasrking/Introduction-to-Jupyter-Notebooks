@@ -45,3 +45,11 @@ Using the workshop list of commands - saved in the repository as **Worksheet_Pyt
   - Voila! _Italics!_
    
   - ![italics](https://user-images.githubusercontent.com/48195568/56340380-ea274c00-61f0-11e9-8580-f471417719d9.JPG)
+
+  - OK. Following the same instructions as above, try typing these:
+  
+    -**print ("this is a string")
+    
+    -**print ("\"this is a string\"")
+    
+    What happens? What is going on here? Speak in small groups about these instructions, markdown and what you've just learned. It can feel a little strange, as you already know how to do this in programs like Word, but what we are doing here is shorthand, and 'speaking' directly to the computer, with a different kind of interface. 
