@@ -30,4 +30,9 @@ Using the workshop list of commands - saved in the repository as **Worksheet_Pyt
 
 - Let's work in markdown!
   - In computer programming a 'string' is sequence of alphanumerical characters
-  - Type **# this is a string** into the cell, making sure you select 'Markdown' from the dropdown menu above.
+  - Type **# this is a string** into the cell, making sure you select 'Markdown' from the dropdown menu above where it shows 'Code' as the default. Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
+  
+  ![markdown](https://user-images.githubusercontent.com/48195568/56338527-89484580-61e9-11e9-965c-3726d8fd7fbb.png)
+
+ - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell. 
+ - You have just created a heading in your notebook! Hooray!
