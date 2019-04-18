@@ -18,30 +18,30 @@ Jupyter Notebooks don't need much to get going. They are editable and viewable i
 
 ### What makes them work?
 
-Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work. In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.
+- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work. In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.
 
-Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language. The kernels run specific programming languages, such as Python or R. 
+- Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
 
-In this workshop we will look at the two most used languages in data analysis, Python and R.   
+- Notebooks use blocks of code to perform computational processes resulting in outputs, or results.
 
-Notebooks use blocks of code to perform computational processes resulting in outputs, or results.
+- In this workshop we will look at the two most used languages in data analysis, Python and R.   
 
 ### What makes them different to other applications?
 
-Notebooks can run and store code and output with “markdown” notes. 
+- Notebooks can run and store code and output with “markdown” notes. 
 
 Let's break that down:
 
 - Code
-"Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
+-- "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
 - Output
-In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
+-- In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
 - Markdown
-"Markdown" is the material you want to include that isn't code. It's just writing - "markdown" is techie talk for what you do to turn plain text into formatted text so you can add headings, italics, quotes and other types of styling. It might be a description, a note, a question. These do not interact with the code, but are very useful in helping you understand the steps in your process and what you are trying to achieve. 
+-- "Markdown" is the material you want to include that isn't code. It's just writing - "markdown" is techie talk for what you do to turn plain text into formatted text so you can add headings, italics, quotes and other types of styling. It might be a description, a note, a question. These do not interact with the code, but are very useful in helping you understand the steps in your process and what you are trying to achieve. 
 
-Jupyter notebooks are a series of “cells” containing executable code, or markdown and outputs. 
+- Jupyter notebooks are a series of “cells” containing executable code, or markdown and outputs. 
 
-Cell might contain code executed (through kernel) or markdown formatted text (incl latex) to embed the description of the work process next to the code.
+- Cells might contain code executed (through kernel) or markdown formatted text (incl latex) to embed the description of the work process next to the code.
 
 ### How are they different to the command line?
 
