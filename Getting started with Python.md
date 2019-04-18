@@ -58,7 +58,7 @@ What happens? What is going on here? Speak in small groups about these instructi
 
 If you want to know more, take a look at these pages: 
 
--(https://guides.github.com/features/mastering-markdown/)
--(https://www.firstpythonnotebook.org/markdown/)
+- https://guides.github.com/features/mastering-markdown/
+- https://www.firstpythonnotebook.org/markdown/
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
