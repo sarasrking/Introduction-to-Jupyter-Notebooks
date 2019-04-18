@@ -26,13 +26,21 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 
 Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.
 
-In Jupyter
+In Jupyter Notebooks you can preview and analyse a limited number of columns and rows of data at a time, so you can see if there are blanks or repeated errors or inaccuracies. In addition, working directly with a large dataset without having to download it can save a lot of time.
 
 #### Data transformation
 
+**need words here**
+
 #### Numerical simulation
 
+**need words here**
+
 #### Statistical modeling
+
+**need words here**
+
+**INCLUDE VISUALISATION EXAMPLES HERE?**
 
 ### A Word on Languages  (teehee)
 
