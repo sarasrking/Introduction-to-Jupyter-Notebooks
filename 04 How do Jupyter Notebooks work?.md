@@ -35,9 +35,9 @@ Let's break that down:
 - Code
   - "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
 - Output
--- In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
+  - In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
 - Markdown
--- "Markdown" is the material you want to include that isn't code. It's just writing - "markdown" is techie talk for what you do to turn plain text into formatted text so you can add headings, italics, quotes and other types of styling. It might be a description, a note, a question. These do not interact with the code, but are very useful in helping you understand the steps in your process and what you are trying to achieve. 
+  - "Markdown" is the material you want to include that isn't code. It's just writing - "markdown" is techie talk for what you do to turn plain text into formatted text so you can add headings, italics, quotes and other types of styling. It might be a description, a note, a question. These do not interact with the code, but are very useful in helping you understand the steps in your process and what you are trying to achieve. 
 
 - Jupyter notebooks are a series of “cells” containing executable code, or markdown and outputs. 
 
@@ -45,7 +45,7 @@ Let's break that down:
 
 ### How are they different to the command line?
 
-The [command line] (https://en.wikipedia.org/wiki/Command-line_interface) does not include notes. In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.
+The [command line](https://en.wikipedia.org/wiki/Command-line_interface) does not include notes. In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.
 
 ### What is the file type?
 
