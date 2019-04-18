@@ -63,4 +63,4 @@ Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an 
 - In small groups, take a look at an example of a Jupyter Notebook in GitHub. Start here: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
 - See if you can identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
 - Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
-- If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, do you think notebooks might be more helpful to you?
+- If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.
