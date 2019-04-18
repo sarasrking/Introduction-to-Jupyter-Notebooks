@@ -22,7 +22,11 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 
 –description from [Project Jupyter](https://jupyter.org/)
 
-#### Data cleaning
+#### [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing)
+
+Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.
+
+In Jupyter
 
 #### Data transformation
 
