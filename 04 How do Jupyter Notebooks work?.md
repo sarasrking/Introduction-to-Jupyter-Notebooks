@@ -33,7 +33,7 @@ Jupyter Notebooks don't need much to get going. They are editable and viewable i
 Let's break that down:
 
 - Code
--- "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
+  - "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
 - Output
 -- In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
 - Markdown
