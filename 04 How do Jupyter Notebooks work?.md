@@ -41,7 +41,7 @@ Let's break that down:
 
 - Jupyter notebooks are a series of “cells” containing executable code, or markdown and outputs. 
 
-- Cells might contain code executed (through kernel) or markdown formatted text (incl latex) to embed the description of the work process next to the code.
+- Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.
 
 ### How are they different to the command line?
 
