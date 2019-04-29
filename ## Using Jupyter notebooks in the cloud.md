@@ -18,12 +18,12 @@ One of the benefits of using Jupyter notebooks is that you can run them in the c
 
 ### Services available
 
-[Binder](https://mybinder.org/)
-[Kaggle Kernels](https://www.kaggle.com/kernels)
-[Google Colaboratory (Colab)](https://colab.research.google.com)
-[Microsoft Azure Notebooks](https://notebooks.azure.com/)
-[CoCalc](https://cocalc.com/doc/jupyter-notebook.html)
-[Datalore](https://datalore.io/)
+*[Binder](https://mybinder.org/)
+*[Kaggle Kernels](https://www.kaggle.com/kernels)
+*[Google Colaboratory (Colab)](https://colab.research.google.com)
+*[Microsoft Azure Notebooks](https://notebooks.azure.com/)
+*[CoCalc](https://cocalc.com/doc/jupyter-notebook.html)
+*[Datalore](https://datalore.io/)
 
 ### Benefits across all services
 
