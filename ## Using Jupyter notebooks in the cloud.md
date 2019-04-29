@@ -27,11 +27,11 @@ One of the benefits of using Jupyter notebooks is that you can run them in the c
 
 ### Benefits across all services
 
-•	No need to install anything on your local machine
-•	Free (or free plan)
-•	Access to Jupyter Notebook environment (or Jupyter-like environment)
-•	Ability to import and export notebooks using the standard .ipynb file format
-•	Support Python language (and most support other languages)
+*	No need to install anything on your local machine
+*	Free (or free plan)
+*	Access to Jupyter Notebook environment (or Jupyter-like environment)
+*	Ability to import and export notebooks using the standard .ipynb file format
+*	Support Python language (and most support other languages)
 
 ### Comparisons
 
