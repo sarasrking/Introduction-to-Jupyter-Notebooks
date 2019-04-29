@@ -35,7 +35,7 @@ One of the benefits of using Jupyter notebooks is that you can run them in the c
 
 ### Comparisons
 
-NEED TEXT HERE
+* (https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451)
 
 ### ACTIVITY
 
