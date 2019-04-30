@@ -5,7 +5,7 @@ Exercises: 1
 Question:
 - How do you open a notebook and what do you do when you get there?
 Objectives:
-- Open a notebook then use markdown and Python to perform basic tasks
+- Open a notebook then use markdown and R to perform basic tasks
 Activity:
  - With a group, work on a calculation and have a go at changing some of the code to produce different results.
 Keypoints:
