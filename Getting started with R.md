@@ -40,7 +40,7 @@ Using the workshop list of commands - saved in the repository as **Worksheet_R.t
  
   ![STRING](https://user-images.githubusercontent.com/48195568/56339085-dcbb9300-61eb-11e9-88c9-60034e797b68.JPG)
  
-  - Now let's try italics. In a new cell type **<_this is a string_>**, and select 'Markdown' from the dropdown menu again.
+  - Now let's try italics. In a new cell type **< _this is a string_ >**, and select 'Markdown' from the dropdown menu again.
   - Click on 'Run' or use the  shortcut **Shift+Enter** to execute the cell.
   - Voila! _Italics!_
    
