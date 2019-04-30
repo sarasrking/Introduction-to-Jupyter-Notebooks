@@ -13,7 +13,7 @@ Keypoints:
 ---
 ## Getting started
 
-Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
+Follow these step-by-step instructions to get started with Jupyter Notebooks using R:
 
 1. Open MyBinder: https://mybinder.org/
 2. Paste the link to this GitHub repository https://github.com/ingridbmason/Intro-to-Jupyter/ and click on LAUNCH.
