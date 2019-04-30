@@ -35,7 +35,7 @@ Using the workshop list of commands - saved in the repository as **Worksheet_R.t
   
   **# this is a string** 
   
-    into the cell, making sure you select 'Markdown' from the dropdown menu above where it shows 'Code' as the default. Already here you     can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
+     into the cell, making sure you select 'Markdown' from the dropdown menu above where it shows 'Code' as the default. Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
   
   ![markdown](https://user-images.githubusercontent.com/48195568/56338527-89484580-61e9-11e9-965c-3726d8fd7fbb.png)
 
@@ -46,7 +46,7 @@ Using the workshop list of commands - saved in the repository as **Worksheet_R.t
  
   - Now let's try italics. In a new cell type 
   
-  **\_\this is a string\_\**
+  **\_this is a string\_**
   
   and select 'Markdown' from the dropdown menu again.
   
