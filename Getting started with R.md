@@ -1,5 +1,5 @@
 ---
-Title: "Getting started with Python"
+Title: "Getting started with R"
 Teaching: 15
 Exercises: 1
 Question:
@@ -7,7 +7,7 @@ Question:
 Objectives:
 - Open a notebook then use markdown and Python to perform basic tasks
 Activity:
- - With a group, work on markdown adjustments and have a go at changing some of the code to produce different results.
+ - With a group, work on a calculation and have a go at changing some of the code to produce different results.
 Keypoints:
  - Get started, be fearless!
 ---
@@ -17,8 +17,8 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks usi
 
 1. Open MyBinder: https://mybinder.org/
 2. Paste the link to this GitHub repository https://github.com/ingridbmason/Intro-to-Jupyter/ and click on LAUNCH.
-3. Open workshop list of commands in separate window: https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_Python.txt
-4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select Python 3. 
+3. Open workshop list of commands in separate window: https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_R.txt
+4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select R. 
 
 ![New](https://user-images.githubusercontent.com/48195568/56337762-02459e00-61e6-11e9-8293-c19ba8d30c4c.jpg)
 
@@ -58,11 +58,11 @@ Following the same steps as above but selecting 'Code' from the dropdown menu fo
 Now let's try to print out a calculation using 'x':
 
 -**x<- "this is a string"**
--print (x)
+-**print (x)**
 
 Let's see what happens when we add this:
 
--print(x, quote = false)
+-**print(x, quote = false)**
 
 If you want to know more, take a look at these pages: 
 
