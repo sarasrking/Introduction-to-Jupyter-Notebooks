@@ -54,8 +54,11 @@ Using the workshop list of commands - saved in the repository as **Worksheet_R.t
   - Voila! _Italics!_
    
   ![italics](https://user-images.githubusercontent.com/48195568/56340380-ea274c00-61f0-11e9-8580-f471417719d9.JPG)
-    
-What happens? What is going on here? Speak in small groups about these instructions, markdown and what you've just learned. It can feel a little strange, as you already know how to do this in programs like Word, but what we are doing here is shorthand, and 'speaking' directly to the computer, with a different kind of interface.
+
+If you want to know more about markdown, take a look at these pages: 
+
+- https://guides.github.com/features/mastering-markdown/
+- http://www.gastonsanchez.com/r4strings/formatting.html
 
 
 ### Mini-activity
@@ -72,10 +75,8 @@ Now let's try to print out a calculation using 'x':
 Let's see what happens when we add this:
 
   **print(x, quote = false)**
+  
+What happens? What is going on here? Speak in small groups about these instructions, markdown and what you've just learned. It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calcuations, visualisations and use computational methods.
 
-If you want to know more, take a look at these pages: 
-
-- https://guides.github.com/features/mastering-markdown/
-- http://www.gastonsanchez.com/r4strings/formatting.html
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
