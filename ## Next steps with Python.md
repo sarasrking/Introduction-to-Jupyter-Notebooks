@@ -16,10 +16,12 @@ Keypoints:
 
 Using the workshop list of commands - saved in the repository as **Worksheet_Python.txt** we can now start with some basic coding.
 
-- First let's start with some basic maths.
-  - In a new cell, select 'code'. Remember that the code cell looks different to the markdown cell. How can you tell?
+- First let's start with some maths.
+
+  - In a new cell, select 'code'. Remember that the code cell looks different to the markdown cell. _How can you tell?_ 
+    Type the following inside the cell:
   
-  - Type **list(range(1, 20))** 
+  	**list(range(1, 20))** 
   
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell. 
   - You have created a list of the range of numbers from 1 to 20. Woohoo!
