@@ -1,13 +1,13 @@
 ---
 Title: "Getting involved with Python"
-Teaching: 15
+Teaching: 30
 Exercises: 1
 Question:
-- How do you use a dictionary in Python?
+- How do you assign values to variables in Python?
 Objectives:
-- Use Python to print keys and values from a dictionay
+- Understand the concepts of values and variables. 
 Activity:
- - Use a dictionary in Python
+ - Create a mini database in Python
 Keypoints:
  - Remember that programming is about language as much as maths - you _can_ talk to a computer and it will understand if you know the language!
 ---
