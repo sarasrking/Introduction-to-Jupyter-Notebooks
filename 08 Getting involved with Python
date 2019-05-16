@@ -46,6 +46,6 @@ Type the following into a new cell:
   **employ.data <- data.frame(employee, salary, startdate, stringsAsFactors = FALSE)**
   **employ.data**
   
-Click on 'run' or shift+enter
+Click on 'run' or shift+enter [THERE IS A PROBLEM WITH THE CODE HERE - LINE 3 'as.Date'
 
 [screenshot]
