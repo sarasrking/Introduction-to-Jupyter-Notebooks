@@ -1,0 +1,30 @@
+---
+Title: "Getting involved with Python"
+Teaching: 15
+Exercises: 1
+Question:
+- How do you use a dictionary in Python?
+Objectives:
+- Use Python to print keys and values from a dictionay
+Activity:
+ - Use a dictionary in Python
+Keypoints:
+ - Remember that programming is about language as much as maths - you _can_ talk to a computer and it will understand if you know the language!
+---
+
+## Ready to splash a little with Python?
+
+  - In a new cell, select 'code'. Remember that the code cell looks different to the markdown cell. _How can you tell?_ 
+  
+    Type the following inside the cell:
+    
+      **d = {'employee': 'Juanita Lopez','salary':81000, 'startdate': '2010-11-1'}**
+      **e = {'employee': 'Peter Gynn','salary':83400, 'startdate': '2008-3-25'}**
+      **f = {'employee': 'Jolie Talofa','salary':96800, 'startdate': '2007-3-14'}**
+      **print (d)**
+      **print (e)**
+      **print (f)**
+
+So what is going on here?
+
+The equal sign (=) is used to assign values to variables.
