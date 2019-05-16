@@ -20,12 +20,15 @@ In this section we are going to create an *array*. An *array* is a data structur
 
   - In your 'code' cell, write the following series of commands:
 
-    -**arr = ["Jack", "Queen", "King"]**
-    -**print(arr[0])**
-    -**print(arr[1])**
-    -**print(arr[2])**
+    - **arr = ["Jack", "Queen", "King"]**
+    - **print(arr[0])**
+    - **print(arr[1])**
+    - **print(arr[2])**
 
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
+  
+  [SCREENSHOT HERE]
+  
   - You have now printed an array. What you can see is that you have assigned each word a number (or a key, or        array index). 
   - Now let's see what happens if we change something:
   
