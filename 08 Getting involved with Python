@@ -29,6 +29,23 @@ Keypoints:
 
 So what is going on here?
 
-The equal sign (=) is used to assign values to variables. This creates a kind of shorthand for working on these variables later.
+The equal sign (=) is used to assign values to groups of variables. This creates a kind of shorthand for working on these variables later.
 
 [NEED MORE EXPLANATION ABOUT WHAT THIS IS USEFUL FOR]
+
+[MIGHT NEED AN ACTIVITY HERE TO PRACTICE WHAT WE JUST DID ABOVE?]
+
+Now we are going to construct a _data frame_
+
+Type the following into a new cell:
+
+  **employee <- c("Juanita Lopez", "Peter Gynn", "Jolie Talofa")**
+  **salary <- c(81000, 83400, 96800)**
+  **startdate <- as.Date(c("2010-11-1", "2008-3-25", "2007-3-14"))**
+  **employ.data <- data.frame(employee, salary, startdate)**
+  **employ.data <- data.frame(employee, salary, startdate, stringsAsFactors = FALSE)**
+  **employ.data**
+  
+Click on 'run' or shift+enter
+
+[screenshot]
