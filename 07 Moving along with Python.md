@@ -14,9 +14,17 @@ Keypoints:
 
 ## Paddling with Python
 
-In this section we are going to create an *array*. An *array* is a data structure consisting of a collection of elements (called values or variables), with each identified by at least one key (or array index).
+In this section we are working with variables and we are going to create an _array_. An _array_ is a data structure consisting of a collection of elements (called _values_ or _variables_), with each identified by at least one key (or _array index_).
 
-### Print an array
+This video clearly explains these terms and a few others we've come across so far - let's have a look:
+
+https://youtu.be/aeoGGabJhAQ
+
+## QUICK CHECK
+
+How are you going with these terms? Is there anyone who would like to try to explain what a variable is? What an array is? Keep a note of any terms you are unfamiliar with, and try to assign them a meaning that makes sense to you.
+
+### Now let's create an array
 
   - In your 'code' cell, write the following series of commands:
 
@@ -29,7 +37,7 @@ In this section we are going to create an *array*. An *array* is a data structur
   
   [SCREENSHOT HERE]
   
-  - You have now printed an array. What you can see is that you have assigned each word a number (or a key, or        array index). 
+  - You have now printed an array. What you can see is that you have assigned each word a number (or a key, or array index). 
   - Now let's see what happens if we change something:
   
   *[NEED SOMETHING HERE TO SHOW THE POINT OF AN ARRAY I THINK]*
