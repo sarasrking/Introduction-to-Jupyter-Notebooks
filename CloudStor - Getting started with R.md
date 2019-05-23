@@ -31,11 +31,11 @@ CREATE A NOTEBOOK
 2. From the 'Wecome to SWAN' (service for web-based analysis), click on 'Go to my Notebooks'.
 3. You will notice here that you can see 'Spawning new notebook' come up on the screen. This means that a notebook is being created. This can take a minute or so.
 4. When the next screen comes up you will see a menu for files. On the right hand side there is a button called 'New', with a triangle next to it. If you click on this you will see a dropdown menu.
-5. Underneath the heading 'Notebook' you will see a list of computer languages. Click on on 'R'.
 
 ![New](https://user-images.githubusercontent.com/48195568/56337762-02459e00-61e6-11e9-8293-c19ba8d30c4c.jpg)
 
-5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
+5. Underneath the heading 'Notebook' you will see a list of computer languages. Click on on 'R'.
+6. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
 
 ## Let's learn about markdown
 
