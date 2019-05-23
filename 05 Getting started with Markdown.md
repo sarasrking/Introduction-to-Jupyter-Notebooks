@@ -1,19 +1,19 @@
 ---
-Title: "Getting started with Python"
+Title: "Getting started with Markdown"
 Teaching: 15
 Exercises: 1
 Question:
 - How do you open a notebook and what do you do when you get there?
 Objectives:
-- Open a notebook then use markdown and Python to perform basic tasks
+- Open a notebook then use markdown to create formatted text
 Activity:
- - With a group, work on markdown adjustments and have a go at changing some of the code to produce different results.
+ - With a group, work on markdown adjustments and practice making lists.
 Keypoints:
  - Get started, be fearless!
 ---
 ## Getting started
 
-Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
+Follow these step-by-step instructions to get started using markdown in Jupyter Notebooks:
 
 1. Open MyBinder: https://mybinder.org/
 2. Paste the link to this GitHub repository https://github.com/ingridbmason/Intro-to-Jupyter/ and click on LAUNCH.
@@ -24,7 +24,7 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks usi
 
 5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
 
-## Let's go for dip with Python
+## Let's learn to use markdown
 
 Using the workshop list of commands - saved in the repository as **Worksheet_Python.txt** we can now start with some basic markdown. Remember that [markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
