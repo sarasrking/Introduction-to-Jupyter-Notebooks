@@ -1,7 +1,7 @@
 ---
-Title: "Getting started with R"
-Teaching: 15
-Exercises: 1
+Title: "Getting started with markdown and R"
+Teaching: ??
+Exercises: ??
 Question:
 - How do you open a notebook and what do you do when you get there?
 Objectives:
@@ -37,7 +37,7 @@ CREATE A NOTEBOOK
 
 5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
 
-## Let's go for dip with R
+## Let's learn about markdown
 
 Using the workshop list of commands - saved in the repository as **Worksheet_R.txt** we can now start with some basic markdown. Remember that [markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
