@@ -30,7 +30,7 @@ Keypoints:
       
       **print (f)**
       
-Click on 'run' or Shift+Enter.
+  - Click on 'run' or Shift+Enter.
 
 [SCREEN SHOT]
 
@@ -42,7 +42,7 @@ The equal sign (=) is used to assign values to groups of variables. This creates
 
 [MIGHT NEED AN ACTIVITY HERE TO PRACTICE WHAT WE JUST DID ABOVE?]
 
-In a new code cell, type the following:
+  - In a new code cell, type the following:
 
       **d.keys()**
 
@@ -50,18 +50,20 @@ In a new code cell, type the following:
 
       **d.items()**
 
-Click on 'run' or Shift+Enter.
+  - Click on 'run' or Shift+Enter.
 
-In the next cell, type:
+  - In the next cell, type:
 
       **for k,v in d.items():**
       
       **print(k, v)**
 
-Click on 'run' or Shift+Enter.
+  - Click on 'run' or Shift+Enter.
 
-In the next cell, type:
+  - In the next cell, type:
 
       **for k,v in e.items():**
       
       **print(k, v)**
+
+ - Click on 'run' or Shift+Enter.
