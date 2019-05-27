@@ -19,11 +19,17 @@ Keypoints:
     Type the following inside the cell:
     
       **d = {'employee': 'Juanita Lopez','salary':81000, 'startdate': '2010-11-1'}**
+      
       **e = {'employee': 'Peter Gynn','salary':83400, 'startdate': '2008-3-25'}**
+      
       **f = {'employee': 'Jolie Talofa','salary':96800, 'startdate': '2007-3-14'}**
+      
       **print (d)**
+      
       **print (e)**
+      
       **print (f)**
+      
 
 [SCREEN SHOT]
 
@@ -40,10 +46,15 @@ Now we are going to construct a _data frame_
 Type the following into a new cell:
 
   **employee <- c("Juanita Lopez", "Peter Gynn", "Jolie Talofa")**
+  
   **salary <- c(81000, 83400, 96800)**
+  
   **startdate <- as.Date(c("2010-11-1", "2008-3-25", "2007-3-14"))**
+  
   **employ.data <- data.frame(employee, salary, startdate)**
+  
   **employ.data <- data.frame(employee, salary, startdate, stringsAsFactors = FALSE)**
+  
   **employ.data**
   
 Click on 'run' or shift+enter [THERE IS A PROBLEM WITH THE CODE HERE - LINE 3 'as.Date'
