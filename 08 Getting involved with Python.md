@@ -7,7 +7,7 @@ Question:
 Objectives:
 - Understand the concepts of values and variables. 
 Activity:
- - Create a mini database in Python
+ - Create a mini database in Python - also known as a dictionary.
 Keypoints:
  - Remember that programming is about language as much as maths - you _can_ talk to a computer and it will understand if you know the language!
 ---
@@ -30,6 +30,7 @@ Keypoints:
       
       **print (f)**
       
+Click on 'run' or Shift+Enter.
 
 [SCREEN SHOT]
 
@@ -41,22 +42,26 @@ The equal sign (=) is used to assign values to groups of variables. This creates
 
 [MIGHT NEED AN ACTIVITY HERE TO PRACTICE WHAT WE JUST DID ABOVE?]
 
-Now we are going to construct a _data frame_
+In a new code cell, type the following:
 
-Type the following into a new cell:
+      **d.keys()**
 
-  **employee <- c("Juanita Lopez", "Peter Gynn", "Jolie Talofa")**
-  
-  **salary <- c(81000, 83400, 96800)**
-  
-  **startdate <- as.Date(c("2010-11-1", "2008-3-25", "2007-3-14"))**
-  
-  **employ.data <- data.frame(employee, salary, startdate)**
-  
-  **employ.data <- data.frame(employee, salary, startdate, stringsAsFactors = FALSE)**
-  
-  **employ.data**
-  
-Click on 'run' or shift+enter [THERE IS A PROBLEM WITH THE CODE HERE - LINE 3 'as.Date'
+      **d.values()**
 
-[screenshot]
+      **d.items()**
+
+Click on 'run' or Shift+Enter.
+
+In the next cell, type:
+
+      **for k,v in d.items():**
+      
+      **print(k, v)**
+
+Click on 'run' or Shift+Enter.
+
+In the next cell, type:
+
+      **for k,v in e.items():**
+      
+      **print(k, v)**
