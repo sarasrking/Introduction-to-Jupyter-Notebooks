@@ -40,7 +40,7 @@ Numerical simulation is when you use maths to create models, essentially compute
 
 A statistical model can be thought of as a statistical assumption (or set of statistical assumptions) with a certain property: that the assumption allows us to calculate the probability of any event. Purposes of statistical models can be for prediction, estimation or description.
 
-### Visualisation
+#### Visualisation
 
 One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
