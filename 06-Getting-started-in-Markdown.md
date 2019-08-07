@@ -112,4 +112,5 @@ Remember that the reason Jupyter Notebooks is becoming so popular is because it 
 If you want to know more about Markdown, take a look at these pages: 
 
 https://guides.github.com/features/mastering-markdown/
+
 https://www.firstpythonnotebook.org/markdown/
