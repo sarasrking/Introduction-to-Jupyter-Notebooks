@@ -5,16 +5,16 @@ Exercises: 1
 Question:
 - What is Markdown and what is it for?
 Objectives:
-- Open a notebook then use markdown to create formatted text
+- Open a notebook then use Markdown to create formatted text
 Activity:
- - With a group, work on markdown adjustments and practice making lists.
+ - With a group, play with basic Markdown formatting.
 Keypoints:
  - Get started, be fearless!
 ---
 
 ## Let's learn to use markdown
 
-Remember that [markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
+Remember that [Markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
 In Jupyter Notebooks the first thing you need to do is select the role of the cell you are typing into. 
 
@@ -25,7 +25,7 @@ Let's start with a heading. To create a heading in Markdown you use a hash (#) a
 
  - Type
 
-```# Introduction to Juypter Notebooks```
+`# Introduction to Juypter Notebooks`
 
 into the cell, making sure you have selected 'Markdown' from the dropdown menu above where it shows 'Code' as the default. 
 
@@ -39,7 +39,7 @@ Already here you can see how notebooks are flexible, as you can choose what kind
  
   - Type
   
-  ```## A lesson in Markdown```
+  `## A lesson in Markdown`
 
   - Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell. You now have a subheading.
   
@@ -49,7 +49,7 @@ To write in your notebook in normal body text, you just have to type your text i
  
   - Type
   
-  ```This is my first lesson in Markdown.``` 
+  `This is my first lesson in Markdown.`
 
  - Click on 'Run' or use the shortcut **Shift+Enter**.
  
@@ -61,7 +61,7 @@ To write in your notebook in normal body text, you just have to type your text i
   
    -  After the first sentence, type
    
- ```I'm doing really well!``` 
+ `I'm doing really well!` 
   
 If you want to add a new cell you can click on the 'up arrow' icon from the buttons above.  To delete or edit a cell, you can toggle up and down the cells.
  
@@ -71,7 +71,7 @@ Let's add a new cell. Under your subheading, you can add another heading. Go to 
  
  - Type
  
-```### Use it to create rich text in a plain text editor``` 
+`### Use it to create rich text in a plain text editor` 
  
  - Press 'Run' or use the shortcut Shift+Enter.
  
@@ -83,7 +83,7 @@ Now let's try bold font. In a new cell, select 'Markdown' from the dropdown menu
 
  - Type
   
- ```This is **really** interesting.```
+ `This is **really** interesting.`
      
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
   - Voila! Bold!
@@ -94,9 +94,8 @@ Now let's try italics. In a new cell, select 'Markdown' from the dropdown menu a
 
  - Type
   
- ```This is really _interesting_.```
-  
-   
+`This is really _interesting_.`
+     
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
   - Voila! Italics!
  
