@@ -14,39 +14,99 @@ Keypoints:
 
 ## Let's learn to use markdown
 
-Using the workshop list of commands - saved in the repository as **Worksheet_Python.txt** we can now start with some basic markdown. Remember that [markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
+Remember that [markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
-- First let's splash around in markdown!
-  - Markdown is for writing down comments outside of the code cells, so you can describe what you are doing as you go.
-  - In computer programming a 'string' is sequence of alphanumerical characters
-  - Type **# this is a string** into the cell, making sure you select 'Markdown' from the dropdown menu above where it shows 'Code' as the default. Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
+In Jupyter Notebooks the first thing you need to do is select the role of the cell you are typing into. 
+
+We are going to select 'Markdown' from the dropdown menu on the righthand side of the row of buttons showing the various icons (save, cut, copy etc). 
+Headings
+
+Let's start with a heading. To create a heading in Markdown you use a hash (#) and a space before the words in the heading:
+
+ - Type
+
+```# Introduction to Juypter Notebooks```
+
+into the cell, making sure you have selected 'Markdown' from the dropdown menu above where it shows 'Code' as the default. 
+
+Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
   
-  ![markdown](https://user-images.githubusercontent.com/48195568/56338527-89484580-61e9-11e9-965c-3726d8fd7fbb.png)
-
-  - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell. 
+  - Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell.
+   
   - You have just created a heading in your notebook! Hooray!
  
-  ![STRING](https://user-images.githubusercontent.com/48195568/56339085-dcbb9300-61eb-11e9-88c9-60034e797b68.JPG)
+ Now let's add a subheading. This time you use two hashes (##) before the words in your subheading.
  
-  - Now let's try italics. In a new cell type **_this is a string_**, and select 'Markdown' from the dropdown menu again.
-  - Click on 'Run' or use the  shortcut **Shift+Enter** to execute the cell.
-  - Voila! _Italics!_
-   
-  ![italics](https://user-images.githubusercontent.com/48195568/56340380-ea274c00-61f0-11e9-8580-f471417719d9.JPG)
+  - Type
   
+  ```## A lesson in Markdown```
+
+  - Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell. You now have a subheading.
+  
+## Body text
+ 
+To write in your notebook in normal body text, you just have to type your text in the Markdown cell and press 'Run' or use the shortcut **Shift+Enter**.
+ 
+  - Type
+  
+  ```This is my first lesson in Markdown.``` 
+
+ - Click on 'Run' or use the shortcut **Shift+Enter**.
+ 
+  You can now type your comments in your Jupyter Notebook.
+  
+## Editing a cell
+  
+ Let's say we want to add some text to the cell you executed above. Double-click on that line and you can open up the cell again.
+  
+   -  After the first sentence, type
+   
+ ```I'm doing really well!``` 
+  
+If you want to add a new cell you can click on the 'up arrow' icon from the buttons above.  To delete or edit a cell, you can toggle up and down the cells.
+ 
+## Adding a new cell
+ 
+Let's add a new cell. Under your subheading, you can add another heading. Go to your subheading 'A lesson in Markdown' and click on the 'plus' button. This will create a new cell. Select 'Markdown' from the drop down menu.
+ 
+ - Type
+ 
+```### Use it to create rich text in a plain text editor``` 
+ 
+ - Press 'Run' or use the shortcut Shift+Enter.
+ 
+ You now have a level three heading.
+
+## Bold
+
+Now let's try bold font. In a new cell, select 'Markdown' from the dropdown menu again.
+
+ - Type
+  
+ ```This is **really** interesting.```
+     
+  - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
+  - Voila! Bold!
+ 
+## Italics
+
+Now let's try italics. In a new cell, select 'Markdown' from the dropdown menu again.
+
+ - Type
+  
+ ```This is really _interesting_.```
+  
+   
+  - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
+  - Voila! Italics!
+ 
 ### Activity
 
-Following the same instructions as above, try typing these: 
+Spend a couple of minutes practicing these skills: Headings, plain/bold/italics text, adding, removing and editing cells.
+ 
+It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calcuations, visualisations and use computational methods. Remember that the reason Jupyter Notebooks is becoming so popular is because it is a format that allows for commenting and text to sit within the same 'document' as code, mathematical equations and visualisations. You can tell the story of what you are doing as you go, and this is a really useful way of being about to reproduce your results. 
 
-  -**print ("this is a string")**
-    
-  -**print ("\"this is a string\"")**
-    
-What happens? What is going on here? Speak in small groups about these instructions, markdown and what you've just learned. It can feel a little strange, as you already know how to do this in programs like Word, but what we are doing here is shorthand, and 'speaking' directly to the computer, with a different kind of interface.
+If you want to know more about markdown, take a look at these pages: 
 
-If you want to know more, take a look at these pages: 
-
-- https://guides.github.com/features/mastering-markdown/
-- https://www.firstpythonnotebook.org/markdown/
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+https://guides.github.com/features/mastering-markdown/
+https://www.firstpythonnotebook.org/markdown/
