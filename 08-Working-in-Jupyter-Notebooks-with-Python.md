@@ -133,7 +133,7 @@ This set of commands has now created a list of dictionary items as values. The '
 ```
 for k,v in d.items():
     print (k, v)
-    ```
+```
 
 - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -144,7 +144,7 @@ The tab key is important here. In this case we are showing the keys and values i
 ```
 for k,v in e.items():
     print(k, v)
-    ```
+```
 
 - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
