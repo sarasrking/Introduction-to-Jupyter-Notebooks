@@ -86,7 +86,8 @@ Now let's try bold font. In a new cell, select 'Markdown' from the dropdown menu
  `This is **really** interesting.`
      
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
-  - Voila! Bold!
+ 
+Voila! Bold!
  
 ## Italics
 
@@ -97,15 +98,18 @@ Now let's try italics. In a new cell, select 'Markdown' from the dropdown menu a
 `This is really _interesting_.`
      
   - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
-  - Voila! Italics!
+
+Voila! Italics!
  
 ### Activity
 
 Spend a couple of minutes practicing these skills: Headings, plain/bold/italics text, adding, removing and editing cells.
  
-It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calcuations, visualisations and use computational methods. Remember that the reason Jupyter Notebooks is becoming so popular is because it is a format that allows for commenting and text to sit within the same 'document' as code, mathematical equations and visualisations. You can tell the story of what you are doing as you go, and this is a really useful way of being about to reproduce your results. 
+It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calcuations, visualisations and use computational methods. 
 
-If you want to know more about markdown, take a look at these pages: 
+Remember that the reason Jupyter Notebooks is becoming so popular is because it is a format that allows for commenting and text to sit within the same 'document' as code, mathematical equations and visualisations. You can tell the story of what you are doing as you go, and this is a really useful way of being about to reproduce your results. 
+
+If you want to know more about Markdown, take a look at these pages: 
 
 https://guides.github.com/features/mastering-markdown/
 https://www.firstpythonnotebook.org/markdown/
