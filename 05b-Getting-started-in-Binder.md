@@ -22,3 +22,11 @@ Follow these step-by-step instructions to get started using Jupyter Notebooks in
 ![New](https://user-images.githubusercontent.com/48195568/56337762-02459e00-61e6-11e9-8293-c19ba8d30c4c.jpg)
 
 5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your Notebook 'Introduction to Jupyter Notebooks'.
+
+#### Activity
+
+Take a good look around the dashboard. You can see there is a menu bar showing some titles that might be recognisable, like the 'File' menu we used before. 
+
+Click on each of these to see what is in the menu. Make sure you click on the 'Help' function to see what kind of options there are when you hit a problem.
+
+Underneath the menu bar there are some buttons that you can use to perform certain tasks, such as saving your notebook, adding a cell, deleting a cell, running a code cell and so on. Hover your mouse over each of these to see what these buttons do.
