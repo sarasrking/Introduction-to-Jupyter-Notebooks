@@ -50,4 +50,6 @@ Jupyter Notebooks can be used with a variety of different programming languages.
 
 ### Activity
 
-In pairs, talk about which programming language might make the most sense for you and why. When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
+In pairs, talk about which programming language might make the most sense for you and why. Take a look at this poster if you don't know where to start: https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis
+
+When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
