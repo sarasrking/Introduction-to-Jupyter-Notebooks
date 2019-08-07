@@ -34,13 +34,15 @@ Data transformation is the process of converting data values from one source for
 
 #### Numerical simulation
 
-**need words here**
+Numerical simulation is when you use maths to create models, essentially computer programs that are designed to simulate what might or what did happen in a situation.  By using numerical analysis you can approximate the real solution of the problem.
 
 #### Statistical modeling
 
-**need words here**
+A statistical model can be thought of as a statistical assumption (or set of statistical assumptions) with a certain property: that the assumption allows us to calculate the probability of any event. Purposes of statistical models can be for prediction, estimation or description.
 
-**INCLUDE VISUALISATION EXAMPLES HERE?**
+### Visualisation
+
+One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
 ### A Word on Languages  (teehee)
 
