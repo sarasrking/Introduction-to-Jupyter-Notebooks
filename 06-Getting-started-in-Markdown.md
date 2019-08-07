@@ -12,7 +12,7 @@ Keypoints:
  - Get started, be fearless!
 ---
 
-## Let's learn to use markdown
+## Let's learn to use Markdown
 
 Remember that [Markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
