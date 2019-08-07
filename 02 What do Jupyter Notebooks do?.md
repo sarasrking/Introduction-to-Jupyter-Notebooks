@@ -44,6 +44,8 @@ A statistical model can be thought of as a statistical assumption (or set of sta
 
 One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
+![ipy_0 13](https://user-images.githubusercontent.com/48195568/62591946-84caa880-b910-11e9-954d-fa34b217aa3b.png)
+
 ### A Word on Languages  (teehee)
 
 Jupyter Notebooks can be used with a variety of different programming languages. Initially they were for Julia, Python and R but now they support many more. If you don't know any languages, it might be helpful to think about the types of tasks you want to perform. Python is currently the most popular language used in Jupyter Notebooks but you should also consider what is commonly used in your field.
