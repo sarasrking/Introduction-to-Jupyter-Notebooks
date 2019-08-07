@@ -15,7 +15,9 @@ Keypoints:
 
 # Working in Jupyter Notebooks with Python
 
-Now let's try using Python for some of the things we did in R. The first thing we need to do is change the kernel. Click on the 'Kernel' menu from the menu bar at the top of the page. Select 'change kernel' and click on 'Python 3'. Watch the top right hand corner of the screen to see it working on changing the kernel. When it changes to 'Trusted' we're ready to go.
+Now let's try using Python for some of the things we did in R. The first thing we need to do is create a new Notebook. Select 'Python 3' after you click on new. Give your new Notebook a name. 
+
+Watch the top right hand corner of the screen to see when the the kernel is ready. When it changes to 'Trusted' we're ready to go.
 
 In this part of the workshop we'll be having a go at using Python, doing some of the same things we did in R, though I'll also be introducing a couple of new concepts as we go, because the two programming languages work differently. 
 
