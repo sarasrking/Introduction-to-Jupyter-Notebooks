@@ -1,3 +1,4 @@
+---
 Title: "Getting started in Cloudstor"
 Teaching: 15
 Exercises: 1
@@ -36,12 +37,12 @@ You are now in CloudStor, which is a cloud storage environment.
 If you don't have access to CloudStor, follow these instructions:
     
 Open up MyBinder: https://mybinder.org/
+
 Paste GitHub Repo: https://github.com/ingridbmason/Intro-to-Jupyter/
+
 Open your new notebook, select Python 3 and save. (The free version of MyBinder does not support R - please be patient while we do that bit).
 
 There are many different ways you can access Jupyter Notebooks, such as MyBinder.org or via Anaconda - we will talk about these options at the end of the workshop.
-
-### FEATURES OF THE NOTEBOOK
 
 #### Activity
 
