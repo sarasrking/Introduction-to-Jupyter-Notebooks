@@ -32,4 +32,6 @@ and place this public link to the data saved in CloudStor between the quotes:  h
 
 Upload your own data set into Cloudstor. Create a public link and and repeat the above instructions again, using the new link.
 
-If you'd like to know more about 'pandas' click here: https://en.m.wikipedia.org/wiki/Pandas_(software)
+Homework: Watch this Q&A series on YouTube: https://www.youtube.com/watch?v=yzIMircGU5I
+
+If you'd like to know more about 'pandas' click here: https://en.m.wikipedia.org/wiki/Pandas_(software) and 
