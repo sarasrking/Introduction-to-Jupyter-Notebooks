@@ -30,7 +30,7 @@ In Jupyter Notebooks you can preview and analyse a limited number of columns and
 
 #### Data transformation
 
-Data transformation is the process of converting data values from one source format or structure to another so they become consistent or intelligbible to a target structure or system. A typical scenario where information needs to be shared involves the extraction of the data from the source application or data custodian, the transformation of that data into another format, and finally loading the transformed data into the target location.
+Data transformation is the process of converting data values from one source format or structure to another so they become consistent or intelligible to a target structure or system. A typical scenario where information needs to be shared involves the extraction of the data from the source application or data custodian, the transformation of that data into another format, and finally loading the transformed data into the target location.
 
 #### Numerical simulation
 
